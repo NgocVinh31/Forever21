@@ -55,7 +55,7 @@ export default function App() {
   const footer=()=>{
     return(
       <View style={style.main}>
-        <Text style={style.main_tittle}>Your Wishlist</Text>
+        <Text style={style.main_tittle}>Your Wishlist 2</Text>
         </View>
     )
   }
