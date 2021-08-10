@@ -107,7 +107,7 @@ export default function App() {
       <View style={style.main}>
         {/* làm phần main2 */}
         <View style={style.main2}>
-          <Text style={style.main2_tittle}>WESC Lets Get Weird Graphic Tee</Text>
+          <Text style={style.main2_tittle}>WESC Lets Get Weird Graphic Tee Hello</Text>
           <FlatList
         data={DATA}
         renderItem={main2List}
